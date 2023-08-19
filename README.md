@@ -7,9 +7,10 @@ Bien lo primero fue configurar python, esto para que el simbolo de sistema lo re
 
 
 Después ejecute el comando en CMD o terminal a traves de un documento de texto, esto posible gracias a la configuración de arriba
-![](https://postimg.cc/9w9kFbF2)
+![](https://i.postimg.cc/RhpxdpkW/Captura-2.jpg)
 
 Y por última corrí el código en vscode, que fue lo más fácil, ya que fue copiar y pegar 
-![](https://postimg.cc/qzRLLjdv)
+![](https://i.postimg.cc/TYj4T47g/Captura-3.jpg
+)
 
 
